@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Highway to Hell",
+  "base_artist": "AC/DC",
+  "createdAt": "2026-02-15T15:06:16.684625Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Highway to Hell (Live Acoustic Version)",
+      "artist": "Maroon 5",
+      "has_synced": false,
+      "path": "select/01_Highway_to_Hell_(Live_Acoustic_Version)_Maroon_5.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Highway to Hell (Bonus Track)",
+      "artist": "Maroon 5",
+      "has_synced": false,
+      "path": "select/02_Highway_to_Hell_(Bonus_Track)_Maroon_5.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Highway To Hell",
+      "artist": "Quiet Riot",
+      "has_synced": true,
+      "path": "select/03_Highway_To_Hell_Quiet_Riot.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Highway to Hell",
+      "artist": "Marilyn Manson",
+      "has_synced": true,
+      "path": "select/04_Highway_to_Hell_Marilyn_Manson.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Highway To Hell (originally by AC/DC)",
+      "artist": "Iced Earth",
+      "has_synced": true,
+      "path": "select/05_Highway_To_Hell_(originally_by_AC_DC)_Iced_Earth.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Highway To Hell (AC\u0000DC)",
+      "artist": "Iced Earth",
+      "has_synced": true,
+      "path": "select/06_Highway_To_Hell_(AC\u0000DC)_Iced_Earth.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Highway to Hell (Live)",
+      "artist": "P!nk",
+      "has_synced": false,
+      "path": "select/07_Highway_to_Hell_(Live)_P!nk.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Highway to Hell",
+      "artist": "P!nk",
+      "has_synced": false,
+      "path": "select/08_Highway_to_Hell_P!nk.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Highway to Hell",
+      "artist": "24hrs",
+      "has_synced": false,
+      "path": "select/09_Highway_to_Hell_24hrs.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Highway To Hell",
+      "artist": "AC/DC",
+      "has_synced": true,
+      "path": "select/10_Highway_To_Hell_AC_DC.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Highway To Hell",
+      "artist": "AC/DC",
+      "has_synced": true,
+      "path": "select/11_Highway_To_Hell_AC_DC.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Highway to Hell (Live)",
+      "artist": "AC/DC",
+      "has_synced": true,
+      "path": "select/12_Highway_to_Hell_(Live)_AC_DC.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Highway to Hell",
+      "artist": "Iced Earth",
+      "has_synced": true,
+      "path": "select/13_Highway_to_Hell_Iced_Earth.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Highway to Hell (cover version)",
+      "artist": "Iced Earth",
+      "has_synced": true,
+      "path": "select/14_Highway_to_Hell_(cover_version)_Iced_Earth.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Highway to Hell",
+      "artist": "AC/DC",
+      "has_synced": true,
+      "path": "select/15_Highway_to_Hell_AC_DC.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Highway to Hell",
+      "artist": "ACDC",
+      "has_synced": true,
+      "path": "select/16_Highway_to_Hell_ACDC.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Highway to Hell",
+      "artist": "AC/DC",
+      "has_synced": false,
+      "path": "select/pl_01_Highway_to_Hell_AC_DC.txt"
+    }
+  ]
+}
